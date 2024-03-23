@@ -7,7 +7,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
 import Home from "./Home/Home";
 import Root from "./Components/Root/Root";
-import AppliedJobs from "./AppliedJobs/AppliedJobs";
+import AppliedJobs from "./Components/AppliedJobs/AppliedJobs";
 import ErrorPage from "./Components/ErrorPage/ErrorPage";
 // components importer end
 

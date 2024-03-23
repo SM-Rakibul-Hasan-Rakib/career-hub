@@ -2,7 +2,7 @@ const ErrorPage = () => {
   return (
     <div>
       <h2>Oops ! </h2>
-      <Link to=""></Link>
+      {/* <Link to=""></Link> */}
     </div>
   );
 };

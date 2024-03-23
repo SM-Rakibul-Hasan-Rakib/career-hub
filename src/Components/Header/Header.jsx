@@ -6,7 +6,7 @@ const Header = () => {
       <li className="mr-3">
         <NavLink to="/">Home</NavLink>{" "}
       </li>
-      <li>
+      <li className="mr-3">
         <NavLink>Jobs</NavLink>
       </li>
       <li>
